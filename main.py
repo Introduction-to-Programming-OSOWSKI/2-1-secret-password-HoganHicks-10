@@ -1,5 +1,5 @@
-def password(P):
-    if "p" == "Knights19":
+def password(p):
+    if p == "Knights19":
         return "ACCESS GRANTED"
 
     else:
