@@ -3,4 +3,4 @@ def password(p):
         return "ACCESS GRANTED"
 
     else:
-        return "ACCESS DEINED"
+        return "ACCESS DENIED"
